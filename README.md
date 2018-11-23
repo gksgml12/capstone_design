@@ -1,1 +1,2 @@
-# capstone_design
+# turtlebotMatlab
+Waypoint following with obstacle avoidance using turtlebot Matlab
